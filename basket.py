@@ -3,7 +3,7 @@ from product import *
 class Basket():
     def __init__(self,list1):
         self.list1 = list1
-        print ("daniel sucks")
+        print ("make new basket again")
     
     def printTotalBasket(self):
         sum1 = 0
